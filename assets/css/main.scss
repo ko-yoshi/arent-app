@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+a {
+  color: #0896f1;
+  text-decoration: none;
+}
+
+button {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+  padding: 0;
+  border: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-family: 'Noto Sans JP', Inter;
+}
+.header-dropdown-outer {
+  border-radius: 12px;
+}
+
+figure {
+  margin: 0;
+}
